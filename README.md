@@ -1,6 +1,5 @@
-# Azure MLOps using GitHub Actions
+# GitHub Actions Hello World Demo
 
-This repo will help you with ideas to have MLOps using GitHub Actions.
-
+This repo will demo GitHub Actions.
 
 [![CI](https://github.com/caiomsouza/azuremlopswithgithubactions/actions/workflows/blank.yml/badge.svg)](https://github.com/caiomsouza/azuremlopswithgithubactions/actions/workflows/blank.yml)
